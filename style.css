@@ -1,0 +1,58 @@
+.menu{
+    text-decoration: none;
+    color: white;
+    font-family:monospace;
+    text-justify: newspaper;
+    text-orientation: upright;
+    height: fit-content;
+    
+    text-align:left;
+    text-indent: 15px;
+    background-position: right;
+   padding-top: 10px;
+  
+  padding-bottom: 0px;
+  
+    
+    
+}
+.center{
+    text-justify: newspaper;
+    text-align: center;
+    
+ 
+}
+.container{
+    background-color: rgb(87, 19, 87);
+    color: rgb(142, 207, 12);
+    scroll-behavior: smooth;
+    padding-bottom: 1000px;   
+    padding-top: 0.50px;
+
+}
+.header{
+    text-align: left;
+    font-size:large;
+
+}
+h1{
+    text-align: left;
+    font: size 65px;;
+
+}
+h3,p{
+    text-indent: 55px;
+    text-align:center;
+    font-size: larger;
+}
+#listlink
+{
+    text-indent: 50px;
+    text-align:center;
+    font-size: larger;
+}
+.right-menu{
+    position: fixed;
+    background-position-x: right;
+    background-position-y: right;
+}
