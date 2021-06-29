@@ -81,7 +81,7 @@ h3,p{
 
 }
   @media screen and (max-width: 768px) {
-    .col-sm-4 {
+    .container {
       text-align: center;
       margin: 25px 0;
     }
@@ -91,6 +91,6 @@ h3,p{
     }
   }
   @media screen and (max-width: 480px) {
-    .logo {
+    .menu {
       font-size: 150px;
     }
