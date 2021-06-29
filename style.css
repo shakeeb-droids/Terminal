@@ -56,40 +56,11 @@ h3,p{
     background-position-x: right;
     background-position-y: right;
 }
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) {
-
-}
-
-/* Portrait */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) 
-  and (orientation: portrait) {
-
-}
-
-/* Landscape */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) 
-  and (orientation: landscape) {
-
-}
   @media screen and (max-width: 768px) {
     .container {
       text-align: center;
       margin: 25px 0;
     }
-    .btn-lg {
-      width: 100%;
-      margin-bottom: 35px;
-    }
-  }
   @media screen and (max-width: 480px) {
     .menu {
       font-size: 150px;
